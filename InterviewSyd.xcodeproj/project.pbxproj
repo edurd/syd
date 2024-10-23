@@ -14,6 +14,7 @@
 		A41AD8962CC814210031AA63 /* InterviewSyd.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A41AD8942CC814210031AA63 /* InterviewSyd.xcdatamodeld */; };
 		A41AD8982CC814220031AA63 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A41AD8972CC814220031AA63 /* Assets.xcassets */; };
 		A41AD89B2CC814220031AA63 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = A41AD89A2CC814220031AA63 /* Base */; };
+		A41AD8A32CC816660031AA63 /* BarCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A41AD8A22CC816660031AA63 /* BarCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A41AD8972CC814220031AA63 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A41AD89A2CC814220031AA63 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A41AD89C2CC814220031AA63 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A41AD8A22CC816660031AA63 /* BarCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				A41AD8992CC814220031AA63 /* LaunchScreen.storyboard */,
 				A41AD89C2CC814220031AA63 /* Info.plist */,
 				A41AD8942CC814210031AA63 /* InterviewSyd.xcdatamodeld */,
+				A41AD8A22CC816660031AA63 /* BarCollectionViewCell.swift */,
 			);
 			path = InterviewSyd;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				A41AD88C2CC814210031AA63 /* AppDelegate.swift in Sources */,
 				A41AD8962CC814210031AA63 /* InterviewSyd.xcdatamodeld in Sources */,
 				A41AD88E2CC814210031AA63 /* SceneDelegate.swift in Sources */,
+				A41AD8A32CC816660031AA63 /* BarCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
